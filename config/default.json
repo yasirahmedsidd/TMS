@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://yasirahmed:yasirahmed11@mern.kqq1b.mongodb.net/mern?retryWrites=true&w=majority",
+  "jwtSecret": "helloWorld"
+}
